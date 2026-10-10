@@ -1,0 +1,20 @@
+KEY INSIGHTS (from this synthetic dataset)
+==================================================
+1. Total revenue Rs 60,195,817, profit Rs 23,078,589 (38.34% margin).
+2. Best month: 2024-11 (festive-season spike in Oct-Nov each year).
+3. Top category: Electronics (Rs 18,340,122); highest-margin category: Beauty (54.06%).
+4. Top product: Mixer Grinder.
+5. Top city: Bengaluru; top payment method: UPI.
+6. Margin at 0% discount = 39.36% vs 30% discount = 34.84% -> heavy discounting cuts profitability.
+7. Return rate 7.02%, cancellation rate 4.98%.
+
+KPIs:
+   Total orders (all): 50,081
+   Delivered orders: 44,069
+   Total revenue (Rs): 60,195,817.25
+   Total profit (Rs): 23,078,588.77
+   Profit margin %: 38.34
+   Avg order value (Rs): 1,365.94
+   Return rate %: 7.02
+   Cancellation rate %: 4.98
+   Repeat customer %: 90.62
